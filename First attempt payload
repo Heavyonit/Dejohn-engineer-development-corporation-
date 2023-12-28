@@ -1,0 +1,18 @@
+{
+	"firstName": "Dejohn",
+	"lastName": "james",
+	"executiveSummary": "Below, you will find a proposal,client payment",
+	"LOAD": [
+		{
+			"payloadvaule": "ES4oJI3l5eveErvapWjy",
+			"source": 2445584388601,
+			"price": 300,
+			"total": 300
+		},
+		{
+			"client bank": "ONE",
+			"bank card number":5396890241740427,
+			"cvv": 606,
+			"expiration date": 12/26
+		}
+	]
